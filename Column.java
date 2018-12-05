@@ -1,0 +1,13 @@
+package abracadabacus;
+
+/**
+ * Determines the order of magnitude of the bead
+ * 
+ * @author Myron Burton
+ *
+ */
+public enum Column {
+	ONES,TENS,HUNDREDS,THOUSANDS,TENTHOUSANDS,HUNDREDTHOUSANDS,
+	MILLIONS,TENMILLIONS,HUNDREDMILLIONS,BILLIONS,TENBILLIONS,
+	HUNDREDBILLIONS,TRILLIONS,TENTRILLIONS,HUNDREDTRILLIONS
+}
